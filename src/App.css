@@ -1,0 +1,12 @@
+.header{
+  margin: auto;
+  text-align: center;
+}
+
+.blockToInline{
+  display: inline;
+}
+
+.inlineToBlock{
+  display: block;
+}
